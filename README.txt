@@ -1,1 +1,1 @@
-Welcome to Muiz's repository!
+Welcome to GithubTraining repository!
